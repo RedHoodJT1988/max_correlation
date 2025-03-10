@@ -21,7 +21,7 @@ The application should display a result of the maximum correlation similar to th
 ```bash
 $ cargo run -q 
 Enter numbers for array A (comma-separated):
-33, , 1, 4
+3, 1, 4
 Enter numbers for array B (comma-spearated):
 2, 5, 6
 Maximum Array Correlation: 11
